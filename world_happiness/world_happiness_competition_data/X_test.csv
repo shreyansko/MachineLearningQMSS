@@ -1,0 +1,53 @@
+Country or region,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,name,region,sub-region,Terrorist_attacks
+Bulgaria,1.092,1.5130000000000001,0.815,0.311,0.081,0.004,Bulgaria,Europe,Eastern Europe,7.0
+Serbia,1.004,1.383,0.8540000000000001,0.282,0.13699999999999998,0.039,Serbia,Europe,Southern Europe,2.0
+Mongolia,0.948,1.531,0.667,0.317,0.235,0.038,Mongolia,Asia,Eastern Asia,585.4347826000001
+Dominican Republic,1.015,1.401,0.779,0.49700000000000005,0.113,0.10099999999999999,Dominican Republic,Americas,Latin America and the Caribbean,1.0
+Burkina Faso,0.331,1.056,0.38,0.255,0.177,0.113,Burkina Faso,Africa,Sub-Saharan Africa,7.0
+Spain,1.286,1.484,1.062,0.36200000000000004,0.153,0.079,Spain,Europe,Southern Europe,11.0
+Bhutan,0.813,1.321,0.604,0.457,0.37,0.16699999999999998,Bhutan,Asia,Southern Asia,2.0
+Ukraine,0.82,1.39,0.7390000000000001,0.17800000000000002,0.187,0.01,Ukraine,Europe,Eastern Europe,1047.0
+Vietnam,0.741,1.3459999999999999,0.851,0.5429999999999999,0.147,0.073,Vietnam,Asia,South-eastern Asia,585.4347826000001
+India,0.755,0.765,0.588,0.498,0.2,0.085,India,Asia,Southern Asia,3332.0
+Czech Republic,1.2690000000000001,1.4869999999999999,0.92,0.457,0.046,0.036000000000000004,Czech Republic,Europe,Eastern Europe,5.0
+Lebanon,0.987,1.224,0.815,0.21600000000000003,0.166,0.027000000000000003,Lebanon,Asia,Western Asia,327.0
+Ireland,1.499,1.5530000000000002,0.9990000000000001,0.516,0.298,0.31,Ireland,Europe,Northern Europe,116.0
+Iraq,1.043,0.98,0.574,0.24100000000000002,0.14800000000000002,0.08900000000000001,Iraq,Asia,Western Asia,14130.0
+Taiwan,1.368,1.43,0.914,0.35100000000000003,0.242,0.09699999999999999,Taiwan,Asia,Eastern Asia,2.0
+Panama,1.149,1.442,0.91,0.516,0.109,0.054000000000000006,Panama,Americas,Latin America and the Caribbean,57.33333333
+Gambia,0.308,0.9390000000000001,0.428,0.382,0.26899999999999996,0.16699999999999998,Gambia,Africa,Sub-Saharan Africa,122.0
+Benin,0.39299999999999996,0.43700000000000006,0.397,0.349,0.175,0.08199999999999999,Benin,Africa,Sub-Saharan Africa,122.0
+Tanzania,0.47600000000000003,0.885,0.499,0.41700000000000004,0.276,0.147,Tanzania,Africa,Sub-Saharan Africa,21.0
+Turkey,1.183,1.36,0.8079999999999999,0.195,0.083,0.106,Turkey,Asia,Western Asia,799.0
+Ivory Coast,0.569,0.8079999999999999,0.23199999999999998,0.35200000000000004,0.154,0.09,Ivory Coast,Africa,Sub-Saharan Africa,5.0
+United States,1.433,1.4569999999999999,0.8740000000000001,0.45399999999999996,0.28,0.128,United States,Americas,Northern America,40.0
+Israel,1.276,1.455,1.0290000000000001,0.371,0.261,0.08199999999999999,Israel,Asia,Western Asia,452.0
+Austria,1.376,1.475,1.016,0.532,0.244,0.226,Austria,Europe,Western Europe,57.33333333
+Brazil,1.004,1.439,0.802,0.39,0.099,0.086,Brazil,Americas,Latin America and the Caribbean,12.0
+Laos,0.764,1.03,0.551,0.547,0.266,0.16399999999999998,Laos,Asia,South-eastern Asia,3.0
+Philippines,0.807,1.2930000000000001,0.657,0.5579999999999999,0.11699999999999999,0.107,Philippines,Asia,South-eastern Asia,1726.0
+Jamaica,0.831,1.4780000000000002,0.831,0.49,0.107,0.027999999999999997,Jamaica,Americas,Latin America and the Caribbean,125.6111111
+Thailand,1.05,1.409,0.828,0.557,0.359,0.027999999999999997,Thailand,Asia,South-eastern Asia,1318.0
+Ghana,0.611,0.868,0.486,0.381,0.245,0.04,Ghana,Africa,Sub-Saharan Africa,2.0
+Kosovo,0.882,1.232,0.758,0.489,0.262,0.006,Kosovo,Europe,Southern Europe,16.0
+Botswana,1.041,1.145,0.5379999999999999,0.455,0.025,0.1,Botswana,Africa,Sub-Saharan Africa,1419.095238
+Mauritius,1.12,1.402,0.7979999999999999,0.498,0.215,0.06,Mauritius,Africa,Sub-Saharan Africa,125.6111111
+Togo,0.275,0.5720000000000001,0.41,0.293,0.177,0.085,Togo,Africa,Sub-Saharan Africa,1419.095238
+Tunisia,0.9209999999999999,1.0,0.815,0.16699999999999998,0.059000000000000004,0.055,Tunisia,Africa,Northern Africa,42.0
+Sierra Leone,0.268,0.841,0.242,0.309,0.252,0.045,Sierra Leone,Africa,Sub-Saharan Africa,1.0
+Mali,0.385,1.105,0.308,0.327,0.153,0.052000000000000005,Mali,Africa,Sub-Saharan Africa,215.0
+Pakistan,0.677,0.8859999999999999,0.535,0.313,0.22,0.098,Pakistan,Asia,Southern Asia,6799.0
+Colombia,0.985,1.41,0.841,0.47,0.099,0.034,Colombia,Americas,Latin America and the Caribbean,684.0
+Guatemala,0.8,1.2690000000000001,0.746,0.535,0.175,0.078,Guatemala,Americas,Latin America and the Caribbean,5.0
+Swaziland,0.8109999999999999,1.149,0.0,0.313,0.07400000000000001,0.135,Swaziland,Africa,Sub-Saharan Africa,1419.095238
+Malaysia,1.2209999999999999,1.171,0.828,0.508,0.26,0.024,Malaysia,Asia,South-eastern Asia,31.0
+Chad,0.35,0.7659999999999999,0.192,0.174,0.198,0.078,Chad,Africa,Sub-Saharan Africa,18.0
+Bahrain,1.3619999999999999,1.368,0.871,0.536,0.255,0.11,Bahrain,Asia,Western Asia,95.0
+Hong Kong,1.4380000000000002,1.2770000000000001,1.122,0.44,0.258,0.287,Hong Kong,Asia,Eastern Asia,585.4347826000001
+Mexico,1.07,1.3230000000000002,0.861,0.433,0.07400000000000001,0.073,Mexico,Americas,Latin America and the Caribbean,47.0
+Uganda,0.332,1.069,0.44299999999999995,0.35600000000000004,0.252,0.06,Uganda,Africa,Sub-Saharan Africa,26.0
+Turkmenistan,1.052,1.538,0.657,0.39399999999999996,0.244,0.027999999999999997,Turkmenistan,Asia,Central Asia,585.4347826000001
+Costa Rica,1.034,1.4409999999999998,0.963,0.5579999999999999,0.14400000000000002,0.09300000000000001,Costa Rica,Americas,Latin America and the Caribbean,57.33333333
+Bolivia,0.7759999999999999,1.209,0.706,0.511,0.13699999999999998,0.064,Bolivia,Americas,Latin America and the Caribbean,125.6111111
+Russia,1.183,1.452,0.726,0.33399999999999996,0.08199999999999999,0.031,Russia,Europe,Eastern Europe,559.0
+Bangladesh,0.562,0.9279999999999999,0.723,0.527,0.166,0.14300000000000002,Bangladesh,Asia,Southern Asia,581.0
