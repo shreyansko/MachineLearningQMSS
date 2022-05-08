@@ -1,3 +1,4 @@
+![covid](https://user-images.githubusercontent.com/91996683/167280395-64922a4e-f8ea-4a03-abec-5336046c14e9.png)
 # COVID-19 IMAGE CLASSIFICATION MODEL
  
 ## Summary
