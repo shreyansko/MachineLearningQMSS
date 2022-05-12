@@ -2,7 +2,7 @@
 
 ___
 
-### Problem
+### Problem:
 Text prediction models utilize Natural Language Processing and Machine Learning to predict the subsequent word(s) in a sentence. The user inputs a few words and the model predicts the words that are most likely to come after them. Text predicition models have a lot of use, depending on the industry and field they are employed in. They are quite ubiquitious and assist us on a daily basis, sometimes without us even realizing. If you go to Google and type in a few words in the search bar, Google's autofill feature completes the sentence for you without making you type all the words- saving you precious time. On gmail, the model learns your writing style from the emails that you send and over time starts reccomending words/phrases. Instead of you having to type "Dear Prof. Morales, I hope you're doing well!", all you have to do is start typing "Dear Prof..." and gmail does the rest for you- again saving a lot of time.
 
 The biggest problem models like these solve is that of speed. Text prediciton models increase efficiency in different processes, thus increasing the speed with which people conduct business, talk to each other, and live their lives. As these models keep getting faster and more accurate, the ease in our interactions and communication keeps improving. In a sense, text prediction models increase the speed of development of our economies by allowing people to find the right information and connect with the right people in an appropriate and efficient manner.
